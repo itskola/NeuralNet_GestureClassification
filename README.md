@@ -1,5 +1,8 @@
 # NeuralNet_GestureClassification
 ### Implementation of Neural Network for gesture classification
+&nbsp;&nbsp;&nbsp;&nbsp;=> implemented using ```C++``` and ```Qt Framework```
+
+<hr/>
 
 Program takes gesture samples as input and trains neural network to classify that samples<br/>
 (**e.g.** if there are total of **three** gestures, it will classify **first gesture as 100**, **second as 010** and **third as 001**
@@ -40,6 +43,7 @@ Picture below shows correct classification of greek leter alpha.<br/>
 />
 <br/>
 
+<hr/>
 
 ### Build/Run
 Import project into ```QtCreator```.<br/>
