@@ -16,7 +16,7 @@ Before doing so, few parameters are reuqired:
 
 <img
   src="images/intro_window.PNG" alt="Intro Window"
-  width=350
+  width=335
   raw=true
 />
 
@@ -28,7 +28,7 @@ Size of output layer is equal to ```number of gestures```<br/>
 
 <img
   src="images/parameters_window.PNG" alt="Neural Network paramters"
-  width=350
+  width=335
   raw=true
 />
 
