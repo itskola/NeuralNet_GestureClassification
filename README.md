@@ -41,6 +41,7 @@ Pictures below show correct classification of greek leters **alpha (10000)** and
   width=325
   raw=true
 />
+&nbsp;&nbsp;
 <img
   src="images/classification_exampleB.png" alt="Greek letter alpha classification"
   width=325
