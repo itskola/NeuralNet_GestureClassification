@@ -34,10 +34,15 @@ Size of output layer is equal to ```number of gestures```.<br/>
 
 <br/>
 
-Picture below shows correct classification of greek leter alpha.<br/>
+Pictures below show correct classification of greek leters **alpha (10000)** and **beta (01000)**.<br/>
 
 <img
   src="images/classification_exampleA.png" alt="Greek letter alpha classification"
+  width=325
+  raw=true
+/>
+<img
+  src="images/classification_exampleB.png" alt="Greek letter alpha classification"
   width=325
   raw=true
 />
