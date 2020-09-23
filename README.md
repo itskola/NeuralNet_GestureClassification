@@ -24,7 +24,7 @@ Before doing so, few parameters are reuqired:
 
 Next picture shows window in which user defines number of hidden layers of neural network.<br/>
 Size of input layer is equal to ```number of dots per sample * 2``` (x and y positions).<br/>
-Size of output layer is equal to ```number of gestures```<br/>
+Size of output layer is equal to ```number of gestures```.<br/>
 
 <img
   src="images/parameters_window.PNG" alt="Neural Network paramters"
