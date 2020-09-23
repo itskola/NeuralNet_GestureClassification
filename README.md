@@ -11,7 +11,7 @@ Program takes gesture samples as input and trains neural network to classify tha
 In the picutre below, intro window is shown. In white area user can define gestures.<br/>
 Before doing so, few parameters are reuqired: 
 - total number of gestures
-- number of samples of per gesture and 
+- number of samples per gesture
 - how much dots of each sample to save <br/>
 
 <img
