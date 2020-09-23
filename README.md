@@ -32,6 +32,7 @@ Size of output layer is equal to ```number of gestures```<br/>
 <br/>
 
 Picture below shows correct classification of greek leter alpha.<br/>
+
 <img
   src="images/classification_exampleA.png" alt="Greek letter alpha classification"
   width=325
@@ -41,3 +42,5 @@ Picture below shows correct classification of greek leter alpha.<br/>
 
 
 ### Build/Run
+Import project into ```QtCreator```.<br/>
+Program was developed with ```MinGW``` as compiler (tested against version ```8.1.0 64-bit```).
